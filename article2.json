@@ -1,0 +1,74 @@
+{
+  "message": "Article retrieved successfully",
+  "data": {
+    "id": "article002",
+    "title": "The Power of Self-Care in Mental Health",
+    "author": {
+      "name": "Emily Richardson",
+      "id": "author002",
+      "profile_image": "https://example.com/emily_richardson.jpg",
+      "bio": "Emily Richardson is a licensed therapist specializing in self-care practices and mental health. She works with individuals to build resilience and promote emotional well-being."
+    },
+    "metadata": {
+      "publish_date": "2024-11-07T00:00:00Z",
+      "last_updated": "2024-11-07T00:00:00Z",
+      "tags": ["self-care", "mental health", "wellness"],
+      "category": "Self-Care",
+      "reading_time": 9,
+      "likes": 95,
+      "views": 650,
+      "mental_state": "well-being",
+      "image_link": "https://example.com/self-care-image.jpg"
+    },
+    "content": [
+      {
+        "type": "header",
+        "level": 1,
+        "text": "What is Self-Care?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Self-care refers to the intentional actions and practices that individuals take to maintain their physical, emotional, and mental health. It is an essential aspect of overall well-being and a proactive approach to reducing stress, improving mood, and enhancing resilience."
+      },
+      {
+        "type": "paragraph",
+        "text": "While self-care is often associated with relaxation and pampering, it goes beyond that. It encompasses a wide range of activities, including managing your emotions, setting boundaries, engaging in physical activity, and nurturing your mental health. Self-care helps individuals to recover from burnout and maintain balance in their lives."
+      },
+      {
+        "type": "subheader",
+        "level": 2,
+        "text": "The Importance of Self-Care"
+      },
+      {
+        "type": "paragraph",
+        "text": "In today’s fast-paced world, the demands of work, family, and other responsibilities can quickly lead to burnout and mental exhaustion. Engaging in regular self-care practices is crucial to prevent these negative outcomes. Not only does self-care help recharge your body and mind, but it also fosters a sense of empowerment and self-worth."
+      },
+      {
+        "type": "paragraph",
+        "text": "Research shows that self-care practices can significantly improve mental health outcomes. For example, physical exercise has been linked to lower levels of anxiety and depression. Additionally, mindfulness techniques such as meditation and deep breathing exercises can help reduce stress and promote a sense of calm."
+      },
+      {
+        "type": "quote",
+        "text": "\"Taking time for yourself is not selfish; it’s necessary for your well-being and your ability to support others.\" - Emily Richardson"
+      },
+      {
+        "type": "subheader",
+        "level": 2,
+        "text": "Practical Self-Care Strategies"
+      },
+      {
+        "type": "paragraph",
+        "text": "There are many ways to incorporate self-care into your daily routine. Some simple yet effective strategies include setting aside time for hobbies, practicing gratitude, and disconnecting from digital devices to promote relaxation. It is important to recognize that self-care is not one-size-fits-all—what works for one person may not work for another."
+      },
+      {
+        "type": "paragraph",
+        "text": "Incorporating small self-care practices into your daily routine can make a significant difference in your overall well-being. Whether it’s enjoying a walk in nature, journaling, or spending time with loved ones, prioritize activities that rejuvenate your body and mind. Remember, self-care is a continuous journey, not a one-time fix."
+      },
+      {
+        "type": "image",
+        "src": "https://example.com/self-care-strategies.jpg",
+        "alt": "Infographic on self-care strategies"
+      }
+    ]
+  }
+}
