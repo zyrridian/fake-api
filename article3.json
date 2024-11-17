@@ -1,0 +1,74 @@
+{
+  "message": "Article retrieved successfully",
+  "data": {
+    "id": "article003",
+    "title": "Coping with Depression in a Digital Age",
+    "author": {
+      "name": "John Miller",
+      "id": "author003",
+      "profile_image": "https://example.com/john_miller.jpg",
+      "bio": "John Miller is a clinical psychologist with a focus on depression and the impact of technology on mental health. He works with individuals to develop strategies for managing depression in the digital age."
+    },
+    "metadata": {
+      "publish_date": "2024-11-08T00:00:00Z",
+      "last_updated": "2024-11-08T00:00:00Z",
+      "tags": ["depression", "digital wellness", "mental health"],
+      "category": "Mental Health",
+      "reading_time": 8,
+      "likes": 50,
+      "views": 450,
+      "mental_state": "depression",
+      "image_link": "https://example.com/depression-image.jpg"
+    },
+    "content": [
+      {
+        "type": "header",
+        "level": 1,
+        "text": "The Digital Impact on Depression"
+      },
+      {
+        "type": "paragraph",
+        "text": "In the digital age, technology has become an integral part of our lives. While it offers numerous benefits, it also contributes to the rise in mental health issues, particularly depression. Social media, constant connectivity, and information overload have created an environment where people are more vulnerable to mental health challenges than ever before."
+      },
+      {
+        "type": "paragraph",
+        "text": "Depression in the digital age is often exacerbated by the pressure to present a perfect image on social media. Studies show that excessive use of social media can increase feelings of isolation, inadequacy, and anxiety, all of which can contribute to the development or worsening of depression."
+      },
+      {
+        "type": "subheader",
+        "level": 2,
+        "text": "Signs of Depression in the Digital Age"
+      },
+      {
+        "type": "paragraph",
+        "text": "Some signs that depression may be linked to digital habits include frequent social media comparison, spending excessive time online, and feeling drained after online interactions. The constant exposure to others' curated lives can create unrealistic expectations, leading to negative self-perception and low self-esteem."
+      },
+      {
+        "type": "paragraph",
+        "text": "Another contributing factor is the addiction to digital devices. Constant notifications and the need to check emails or social media can disrupt sleep patterns, making it harder for individuals to rest and recharge. This can worsen the symptoms of depression and lead to a vicious cycle of mental health decline."
+      },
+      {
+        "type": "quote",
+        "text": "\"The digital world can be a source of both connection and isolation. It’s important to find balance and take breaks from technology for the sake of your mental health.\" - John Miller"
+      },
+      {
+        "type": "subheader",
+        "level": 2,
+        "text": "Coping Strategies for Depression in the Digital Age"
+      },
+      {
+        "type": "paragraph",
+        "text": "To manage depression in the digital age, it's crucial to establish healthy boundaries with technology. One effective strategy is setting aside time each day for a digital detox. This could involve turning off notifications, limiting social media use, or designating 'screen-free' zones to give your mind a break from constant stimulation."
+      },
+      {
+        "type": "paragraph",
+        "text": "In addition to digital boundaries, seeking professional help is essential for those struggling with depression. Therapy, counseling, and support groups can provide valuable tools for managing depression. Cognitive Behavioral Therapy (CBT), in particular, has been shown to be effective in helping individuals identify negative thought patterns and develop healthier ways of thinking."
+      },
+      {
+        "type": "image",
+        "src": "https://example.com/depression-coping-strategies.jpg",
+        "alt": "Infographic on coping strategies for depression"
+      }
+    ]
+  }
+}
