@@ -1,0 +1,47 @@
+{
+  "message": "Articles retrieved successfully",
+  "data": {
+    "count": 3,
+    "articles": [
+      {
+        "id": "article001",
+        "title": "Understanding Anxiety: Symptoms and Solutions",
+        "metadata": {
+          "publish_date": "2024-11-06T00:00:00Z",
+          "last_updated": "2024-11-06T00:00:00Z",
+          "tags": ["anxiety", "mental health", "stress management"],
+          "category": "Mental Health",
+          "reading_time": 7,
+          "likes": 120,
+          "views": 800
+        }
+      },
+      {
+        "id": "article002",
+        "title": "The Power of Self-Care in Mental Health",
+        "metadata": {
+          "publish_date": "2024-11-07T00:00:00Z",
+          "last_updated": "2024-11-07T00:00:00Z",
+          "tags": ["self-care", "mental health", "wellness"],
+          "category": "Self-Care",
+          "reading_time": 9,
+          "likes": 95,
+          "views": 650
+        }
+      },
+      {
+        "id": "article003",
+        "title": "Coping with Depression in a Digital Age",
+        "metadata": {
+          "publish_date": "2024-11-08T00:00:00Z",
+          "last_updated": "2024-11-08T00:00:00Z",
+          "tags": ["depression", "digital wellness", "mental health"],
+          "category": "Mental Health",
+          "reading_time": 8,
+          "likes": 50,
+          "views": 450
+        }
+      }
+    ]
+  }
+}
