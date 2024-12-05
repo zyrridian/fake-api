@@ -1,0 +1,307 @@
+[
+  {
+    "id": "7HpTqJLCmOtPwRxBgNv5",
+    "fullName": "Dr. Cloud Strife",
+    "title": "MD, Psychiatry",
+    "mainRole": "Clinical Psychologist",
+    "specializations": ["Trauma Counseling", "Cognitive Behavioral Therapy"],
+    "ratings": 4.7,
+    "reviewCount": 95,
+    "patientsCount": 180,
+    "experienceYears": 8,
+    "aboutMe": "Dr. Cloud specializes in trauma recovery and helping patients overcome mental barriers.",
+    "languages": ["English", "Japanese"],
+    "education": [
+      {
+        "degree": "MD in Psychiatry",
+        "institution": "Kyoto University",
+        "yearOfGraduation": 2012
+      }
+    ],
+    "workingHours": [
+      {
+        "day": "Monday",
+        "startTime": "08:00 AM",
+        "endTime": "04:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "10:00 AM",
+        "endTime": "06:00 PM"
+      }
+    ],
+    "certifications": [
+      "Certified Trauma Therapist",
+      "Member of Japanese Psychological Association"
+    ],
+    "location": {
+      "address": "123 Sakura Lane, Tokyo",
+      "latitude": "35.689487",
+      "longitude": "139.691711"
+    },
+    "consultationFee": 400000,
+    "features": {
+      "bookAppointment": true,
+      "chat": true,
+      "videoConsultation": true
+    },
+    "availability": [
+      {
+        "date": "2024-12-12",
+        "timeSlots": ["09:00 AM - 10:00 AM", "2:00 PM - 3:00 PM"]
+      },
+      {
+        "date": "2024-12-13",
+        "timeSlots": ["10:00 AM - 11:00 AM", "4:00 PM - 5:00 PM"]
+      }
+    ],
+    "contact": {
+      "phoneNumber": "08023311234",
+      "email": "dr.cloud.strife@example.com"
+    }
+  },
+  {
+    "id": "2KdRnBQHeMtOwPlWgFv8",
+    "fullName": "Dr. Aerith Gainsborough",
+    "title": "PhD, Psychology",
+    "mainRole": "Counseling Psychologist",
+    "specializations": ["Grief Counseling", "Mindfulness Therapy"],
+    "ratings": 4.9,
+    "reviewCount": 150,
+    "patientsCount": 250,
+    "experienceYears": 12,
+    "aboutMe": "Dr. Aerith is known for her empathetic approach in guiding patients through grief and emotional well-being.",
+    "languages": ["English", "French"],
+    "education": [
+      {
+        "degree": "PhD in Psychology",
+        "institution": "Sorbonne University",
+        "yearOfGraduation": 2011
+      }
+    ],
+    "workingHours": [
+      {
+        "day": "Tuesday",
+        "startTime": "09:00 AM",
+        "endTime": "05:00 PM"
+      },
+      {
+        "day": "Thursday",
+        "startTime": "10:00 AM",
+        "endTime": "06:00 PM"
+      }
+    ],
+    "certifications": [
+      "Certified Mindfulness Practitioner",
+      "Member of French Psychological Association"
+    ],
+    "location": {
+      "address": "Rue Saint-Jacques 15, Paris",
+      "latitude": "48.856613",
+      "longitude": "2.352222"
+    },
+    "consultationFee": 500000,
+    "features": {
+      "bookAppointment": true,
+      "chat": true,
+      "videoConsultation": true
+    },
+    "availability": [
+      {
+        "date": "2024-12-14",
+        "timeSlots": ["09:30 AM - 10:30 AM", "3:30 PM - 4:30 PM"]
+      },
+      {
+        "date": "2024-12-15",
+        "timeSlots": ["10:00 AM - 11:00 AM", "2:00 PM - 3:00 PM"]
+      }
+    ],
+    "contact": {
+      "phoneNumber": "08025566789",
+      "email": "dr.aerith.gainsborough@example.com"
+    }
+  },
+  {
+    "id": "9GtRnBVMeAtOwPlWgFd7",
+    "fullName": "Dr. Vincent Valentine",
+    "title": "MD, Psychiatry",
+    "mainRole": "Forensic Psychiatrist",
+    "specializations": ["Forensic Psychiatry", "Mood Disorders"],
+    "ratings": 4.6,
+    "reviewCount": 80,
+    "patientsCount": 140,
+    "experienceYears": 15,
+    "aboutMe": "Dr. Vincent has extensive experience in forensic cases and treating complex mood disorders.",
+    "languages": ["English", "German"],
+    "education": [
+      {
+        "degree": "MD in Psychiatry",
+        "institution": "Heidelberg University",
+        "yearOfGraduation": 2005
+      }
+    ],
+    "workingHours": [
+      {
+        "day": "Wednesday",
+        "startTime": "09:00 AM",
+        "endTime": "03:00 PM"
+      },
+      {
+        "day": "Friday",
+        "startTime": "10:00 AM",
+        "endTime": "04:00 PM"
+      }
+    ],
+    "certifications": [
+      "Forensic Psychiatry Certification",
+      "Member of German Psychiatric Association"
+    ],
+    "location": {
+      "address": "Schloss-Wolfsbrunnenweg 23, Heidelberg",
+      "latitude": "49.398752",
+      "longitude": "8.672434"
+    },
+    "consultationFee": 600000,
+    "features": {
+      "bookAppointment": true,
+      "chat": true,
+      "videoConsultation": true
+    },
+    "availability": [
+      {
+        "date": "2024-12-16",
+        "timeSlots": ["09:00 AM - 10:00 AM", "1:00 PM - 2:00 PM"]
+      },
+      {
+        "date": "2024-12-17",
+        "timeSlots": ["10:00 AM - 11:00 AM", "2:00 PM - 3:00 PM"]
+      }
+    ],
+    "contact": {
+      "phoneNumber": "08026778890",
+      "email": "dr.vincent.valentine@example.com"
+    }
+  },
+  {
+    "id": "6JrRkMKFeGtPlWwVgHv9",
+    "fullName": "Dr. Yuffie Kisaragi",
+    "title": "MD, Psychiatry",
+    "mainRole": "Youth Mental Health Specialist",
+    "specializations": ["Adolescent Psychiatry", "Behavioral Therapy"],
+    "ratings": 4.8,
+    "reviewCount": 110,
+    "patientsCount": 220,
+    "experienceYears": 7,
+    "aboutMe": "Dr. Yuffie is dedicated to improving the mental health of adolescents through innovative therapeutic methods.",
+    "languages": ["English", "Mandarin"],
+    "education": [
+      {
+        "degree": "MD in Psychiatry",
+        "institution": "National University of Singapore",
+        "yearOfGraduation": 2015
+      }
+    ],
+    "workingHours": [
+      {
+        "day": "Thursday",
+        "startTime": "08:00 AM",
+        "endTime": "04:00 PM"
+      },
+      {
+        "day": "Saturday",
+        "startTime": "09:00 AM",
+        "endTime": "02:00 PM"
+      }
+    ],
+    "certifications": [
+      "Certified Behavioral Therapist",
+      "Member of Singapore Psychiatric Society"
+    ],
+    "location": {
+      "address": "1 North Bridge Rd, Singapore",
+      "latitude": "1.283500",
+      "longitude": "103.850000"
+    },
+    "consultationFee": 350000,
+    "features": {
+      "bookAppointment": true,
+      "chat": true,
+      "videoConsultation": true
+    },
+    "availability": [
+      {
+        "date": "2024-12-18",
+        "timeSlots": ["08:00 AM - 09:00 AM", "1:00 PM - 2:00 PM"]
+      },
+      {
+        "date": "2024-12-19",
+        "timeSlots": ["09:00 AM - 10:00 AM", "3:00 PM - 4:00 PM"]
+      }
+    ],
+    "contact": {
+      "phoneNumber": "08028899876",
+      "email": "dr.yuffie.kisaragi@example.com"
+    }
+  },
+  {
+    "id": "4LpTqRKCmItPwRxFgNv0",
+    "fullName": "Dr. Barret Wallace",
+    "title": "PhD, Psychology",
+    "mainRole": "Addiction Recovery Specialist",
+    "specializations": ["Substance Abuse Therapy", "Anger Management"],
+    "ratings": 4.5,
+    "reviewCount": 100,
+    "patientsCount": 170,
+    "experienceYears": 9,
+    "aboutMe": "Dr. Barret empowers individuals to overcome addiction and lead healthier lives through focused therapy.",
+    "languages": ["English", "Spanish"],
+    "education": [
+      {
+        "degree": "PhD in Psychology",
+        "institution": "Harvard University",
+        "yearOfGraduation": 2014
+      }
+    ],
+    "workingHours": [
+      {
+        "day": "Monday",
+        "startTime": "09:00 AM",
+        "endTime": "05:00 PM"
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "10:00 AM",
+        "endTime": "06:00 PM"
+      }
+    ],
+    "certifications": [
+      "Certified Addiction Recovery Therapist",
+      "Member of American Psychological Association"
+    ],
+    "location": {
+      "address": "15 Freedom St, Boston",
+      "latitude": "42.360253",
+      "longitude": "-71.058291"
+    },
+    "consultationFee": 450000,
+    "features": {
+      "bookAppointment": true,
+      "chat": true,
+      "videoConsultation": true
+    },
+    "availability": [
+      {
+        "date": "2024-12-20",
+        "timeSlots": ["09:30 AM - 10:30 AM", "3:30 PM - 4:30 PM"]
+      },
+      {
+        "date": "2024-12-21",
+        "timeSlots": ["10:00 AM - 11:00 AM", "2:00 PM - 3:00 PM"]
+      }
+    ],
+    "contact": {
+      "phoneNumber": "08024455678",
+      "email": "dr.barret.wallace@example.com"
+    }
+  }
+]
