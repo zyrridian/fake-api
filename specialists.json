@@ -11,6 +11,7 @@
     "experienceYears": 8,
     "aboutMe": "Dr. Cloud specializes in trauma recovery and helping patients overcome mental barriers.",
     "languages": ["English", "Japanese"],
+    "photoUrl": "https://t4.ftcdn.net/jpg/02/60/04/09/360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg",
     "education": [
       {
         "degree": "MD in Psychiatry",
@@ -72,6 +73,7 @@
     "experienceYears": 12,
     "aboutMe": "Dr. Aerith is known for her empathetic approach in guiding patients through grief and emotional well-being.",
     "languages": ["English", "French"],
+    "photoUrl": "https://static.vecteezy.com/system/resources/thumbnails/028/287/555/small_2x/an-indian-young-female-doctor-isolated-on-green-ai-generated-photo.jpg",
     "education": [
       {
         "degree": "PhD in Psychology",
@@ -133,6 +135,7 @@
     "experienceYears": 15,
     "aboutMe": "Dr. Vincent has extensive experience in forensic cases and treating complex mood disorders.",
     "languages": ["English", "German"],
+    "photoUrl": "https://media.istockphoto.com/id/1468678624/photo/nurse-hospital-employee-and-portrait-of-black-man-in-a-healthcare-wellness-and-clinic-feeling.jpg",
     "education": [
       {
         "degree": "MD in Psychiatry",
@@ -194,6 +197,7 @@
     "experienceYears": 7,
     "aboutMe": "Dr. Yuffie is dedicated to improving the mental health of adolescents through innovative therapeutic methods.",
     "languages": ["English", "Mandarin"],
+    "photoUrl": "https://st3.depositphotos.com/3433891/31868/i/450/depositphotos_318682708-stock-photo-young-chinese-doctor-woman-relaxed.jpg",
     "education": [
       {
         "degree": "MD in Psychiatry",
@@ -255,6 +259,7 @@
     "experienceYears": 9,
     "aboutMe": "Dr. Barret empowers individuals to overcome addiction and lead healthier lives through focused therapy.",
     "languages": ["English", "Spanish"],
+    "photoUrl": "https://static.vecteezy.com/system/resources/thumbnails/026/375/249/small_2x/ai-generative-portrait-of-confident-male-doctor-in-white-coat-and-stethoscope-standing-with-arms-crossed-and-looking-at-camera-photo.jpg",
     "education": [
       {
         "degree": "PhD in Psychology",
