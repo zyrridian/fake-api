@@ -1,0 +1,61 @@
+{
+  "id": "2KdRnBQHeMtOwPlWgFv8",
+  "fullName": "Dr. Aerith Gainsborough",
+  "title": "PhD, Psychology",
+  "mainRole": "Counseling Psychologist",
+  "specializations": ["Grief Counseling", "Mindfulness Therapy"],
+  "ratings": 4.9,
+  "reviewCount": 150,
+  "patientsCount": 250,
+  "experienceYears": 12,
+  "aboutMe": "Dr. Aerith is known for her empathetic approach in guiding patients through grief and emotional well-being.",
+  "languages": ["English", "French"],
+  "education": [
+    {
+      "degree": "PhD in Psychology",
+      "institution": "Sorbonne University",
+      "yearOfGraduation": 2011
+    }
+  ],
+  "workingHours": [
+    {
+      "day": "Tuesday",
+      "startTime": "09:00 AM",
+      "endTime": "05:00 PM"
+    },
+    {
+      "day": "Thursday",
+      "startTime": "10:00 AM",
+      "endTime": "06:00 PM"
+    }
+  ],
+  "certifications": [
+    "Certified Mindfulness Practitioner",
+    "Member of French Psychological Association"
+  ],
+  "location": {
+    "address": "Rue Saint-Jacques 15, Paris",
+    "latitude": "48.856613",
+    "longitude": "2.352222"
+  },
+  "consultationFee": 500000,
+  "features": {
+    "bookAppointment": true,
+    "chat": true,
+    "videoConsultation": true
+  },
+  "availability": [
+    {
+      "date": "2024-12-14",
+      "timeSlots": ["09:30 AM - 10:30 AM", "3:30 PM - 4:30 PM"]
+    },
+    {
+      "date": "2024-12-15",
+      "timeSlots": ["10:00 AM - 11:00 AM", "2:00 PM - 3:00 PM"]
+    }
+  ],
+  "contact": {
+    "phoneNumber": "08025566789",
+    "email": "dr.aerith.gainsborough@example.com"
+  }
+}
