@@ -1,0 +1,25 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Mountains",
+        "image": "images/categories/mountains.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Beaches",
+        "image": "images/categories/beaches.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Forests",
+        "image": "images/categories/forests.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Deserts",
+        "image": "images/categories/deserts.jpg"
+      }
+    ]
+  }
+  

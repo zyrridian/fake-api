@@ -1,0 +1,54 @@
+{
+    "id": 101,
+    "title": "Mount Fuji",
+    "location": "Kyoto, Japan",
+    "rating": 4.8,
+    "reviews_count": 200,
+    "description": "Mount Fuji is Japan's tallest peak and one of the country's most iconic landmarks. It offers breathtaking views, hiking trails, and cultural significance.",
+    "images": [
+      "images/places/fuji1.jpg",
+      "images/places/fuji2.jpg",
+      "images/places/fuji3.jpg"
+    ],
+    "highlights": [
+      "Scenic views from the summit",
+      "Popular hiking destination",
+      "Cultural and spiritual significance"
+    ],
+    "reviews": [
+      {
+        "user": "John Doe",
+        "rating": 5,
+        "comment": "Amazing place! The view was stunning and the experience was unforgettable."
+      },
+      {
+        "user": "Jane Smith",
+        "rating": 4,
+        "comment": "Good place to visit, but a bit crowded during peak times."
+      }
+    ],
+    "location_info": {
+      "latitude": 35.3606,
+      "longitude": 138.7274,
+      "nearest_city": "Tokyo",
+      "distance_from_city": "100 km"
+    },
+    "activities": [
+      {
+        "name": "Hiking",
+        "description": "Experience various trails leading to the summit.",
+        "image": "images/activities/hiking.jpg"
+      },
+      {
+        "name": "Photography",
+        "description": "Capture breathtaking views of Mount Fuji and surrounding landscapes.",
+        "image": "images/activities/photography.jpg"
+      }
+    ],
+    "facilities": [
+      "Parking",
+      "Guided tours",
+      "Rest stops"
+    ]
+  }
+  
