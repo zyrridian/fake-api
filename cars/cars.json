@@ -1,0 +1,222 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "brand": "Toyota",
+        "model": "Camry",
+        "year": 2023,
+        "type": "Sedan",
+        "engine": {
+          "type": "2.5L 4-Cylinder",
+          "horsepower": 203,
+          "fuelType": "Gasoline"
+        },
+        "transmission": "8-speed automatic",
+        "price": 26500,
+        "features": [
+          "Adaptive Cruise Control",
+          "Lane Keeping Assist",
+          "Apple CarPlay",
+          "Android Auto",
+          "Backup Camera"
+        ],
+        "images": [
+          {
+            "url": "https://example.com/images/toyota-camry-front.jpg",
+            "description": "Front view of the Toyota Camry"
+          },
+          {
+            "url": "https://example.com/images/toyota-camry-interior.jpg",
+            "description": "Interior view of the Toyota Camry"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "brand": "Tesla",
+        "model": "Model 3",
+        "year": 2023,
+        "type": "Electric Sedan",
+        "engine": {
+          "type": "Electric",
+          "horsepower": 283,
+          "fuelType": "Electric"
+        },
+        "transmission": "Single-speed",
+        "price": 39990,
+        "features": [
+          "Autopilot",
+          "Full Self-Driving Capability",
+          "15-inch Touchscreen",
+          "Glass Roof",
+          "Wireless Charging"
+        ],
+        "images": [
+          {
+            "url": "https://example.com/images/tesla-model3-front.jpg",
+            "description": "Front view of the Tesla Model 3"
+          },
+          {
+            "url": "https://example.com/images/tesla-model3-interior.jpg",
+            "description": "Interior view of the Tesla Model 3"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "brand": "Ford",
+        "model": "F-150",
+        "year": 2023,
+        "type": "Pickup Truck",
+        "engine": {
+          "type": "3.3L V6",
+          "horsepower": 290,
+          "fuelType": "Gasoline"
+        },
+        "transmission": "10-speed automatic",
+        "price": 30495,
+        "features": [
+          "Pro Power Onboard",
+          "Ford Co-Pilot360",
+          "Towing Capacity of 14,000 lbs",
+          "Sync 4 Infotainment System",
+          "360-Degree Camera"
+        ],
+        "images": [
+          {
+            "url": "https://example.com/images/ford-f150-front.jpg",
+            "description": "Front view of the Ford F-150"
+          },
+          {
+            "url": "https://example.com/images/ford-f150-interior.jpg",
+            "description": "Interior view of the Ford F-150"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "brand": "BMW",
+        "model": "X5",
+        "year": 2024,
+        "type": "SUV",
+        "engine": {
+          "type": "3.0L Turbo Inline-6",
+          "horsepower": 335,
+          "fuelType": "Gasoline"
+        },
+        "transmission": "8-speed automatic",
+        "price": 61500,
+        "features": [
+          "Panoramic Sunroof",
+          "Harman Kardon Sound System",
+          "Heads-Up Display",
+          "All-Wheel Drive",
+          "Parking Assistance Package"
+        ],
+        "images": [
+          {
+            "url": "https://example.com/images/bmw-x5-front.jpg",
+            "description": "Front view of the BMW X5"
+          },
+          {
+            "url": "https://example.com/images/bmw-x5-interior.jpg",
+            "description": "Interior view of the BMW X5"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "brand": "Honda",
+        "model": "Civic",
+        "year": 2023,
+        "type": "Sedan",
+        "engine": {
+          "type": "2.0L 4-Cylinder",
+          "horsepower": 158,
+          "fuelType": "Gasoline"
+        },
+        "transmission": "CVT",
+        "price": 21500,
+        "features": [
+          "Honda Sensing",
+          "Apple CarPlay",
+          "Android Auto",
+          "Multi-Angle Rearview Camera",
+          "Heated Front Seats"
+        ],
+        "images": [
+          {
+            "url": "https://example.com/images/honda-civic-front.jpg",
+            "description": "Front view of the Honda Civic"
+          },
+          {
+            "url": "https://example.com/images/honda-civic-interior.jpg",
+            "description": "Interior view of the Honda Civic"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "brand": "Chevrolet",
+        "model": "Tahoe",
+        "year": 2024,
+        "type": "SUV",
+        "engine": {
+          "type": "5.3L V8",
+          "horsepower": 355,
+          "fuelType": "Gasoline"
+        },
+        "transmission": "10-speed automatic",
+        "price": 53700,
+        "features": [
+          "Magnetic Ride Control",
+          "Infotainment 3 Plus System",
+          "Wireless Apple CarPlay and Android Auto",
+          "Hands-Free Liftgate",
+          "Max Trailering Package"
+        ],
+        "images": [
+          {
+            "url": "https://example.com/images/chevrolet-tahoe-front.jpg",
+            "description": "Front view of the Chevrolet Tahoe"
+          },
+          {
+            "url": "https://example.com/images/chevrolet-tahoe-interior.jpg",
+            "description": "Interior view of the Chevrolet Tahoe"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "brand": "Mercedes-Benz",
+        "model": "E-Class",
+        "year": 2024,
+        "type": "Luxury Sedan",
+        "engine": {
+          "type": "2.0L Turbo Inline-4",
+          "horsepower": 255,
+          "fuelType": "Gasoline"
+        },
+        "transmission": "9-speed automatic",
+        "price": 57600,
+        "features": [
+          "MBUX Infotainment System",
+          "Burmester Surround Sound",
+          "Heated and Ventilated Seats",
+          "360-Degree Camera",
+          "AMG Line Interior"
+        ],
+        "images": [
+          {
+            "url": "https://example.com/images/mercedes-e-class-front.jpg",
+            "description": "Front view of the Mercedes-Benz E-Class"
+          },
+          {
+            "url": "https://example.com/images/mercedes-e-class-interior.jpg",
+            "description": "Interior view of the Mercedes-Benz E-Class"
+          }
+        ]
+      }
+    ]
+  }
+  
