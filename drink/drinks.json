@@ -2,7 +2,7 @@
     "error": false,
     "message": "success",
     "count": 10,
-    "smoothies": [
+    "drinnks": [
       {
         "id": 1,
         "name": "Berry Bliss",
