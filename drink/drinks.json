@@ -1,0 +1,98 @@
+{
+    "error": false,
+    "message": "success",
+    "count": 10,
+    "smoothies": [
+      {
+        "id": 1,
+        "name": "Berry Bliss",
+        "description": "A refreshing blend of strawberries, blueberries, and raspberries with a hint of honey.",
+        "ingredients": ["Strawberries", "Blueberries", "Raspberries", "Honey", "Almond Milk"],
+        "price": 5.99,
+        "rating": 4.8,
+        "image": "https://example.com/images/berry-bliss.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Tropical Twist",
+        "description": "A delicious mix of mango, pineapple, and coconut water for a tropical vibe.",
+        "ingredients": ["Mango", "Pineapple", "Coconut Water", "Chia Seeds"],
+        "price": 6.49,
+        "rating": 4.7,
+        "image": "https://example.com/images/tropical-twist.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Green Detox",
+        "description": "Packed with spinach, kale, banana, and a touch of ginger for a healthy boost.",
+        "ingredients": ["Spinach", "Kale", "Banana", "Ginger", "Lemon Juice"],
+        "price": 5.79,
+        "rating": 4.9,
+        "image": "https://example.com/images/green-detox.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Peachy Protein",
+        "description": "A creamy blend of peaches, Greek yogurt, and protein powder for post-workout fuel.",
+        "ingredients": ["Peaches", "Greek Yogurt", "Protein Powder", "Almond Milk"],
+        "price": 6.29,
+        "rating": 4.6,
+        "image": "https://example.com/images/peachy-protein.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Chocolate Banana Boost",
+        "description": "Rich cocoa with bananas and peanut butter for a sweet energy boost.",
+        "ingredients": ["Banana", "Cocoa Powder", "Peanut Butter", "Oat Milk"],
+        "price": 6.99,
+        "rating": 4.8,
+        "image": "https://example.com/images/chocolate-banana.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Citrus Sunrise",
+        "description": "A tangy mix of oranges, carrots, and turmeric for an immune-boosting start to your day.",
+        "ingredients": ["Oranges", "Carrots", "Turmeric", "Ginger"],
+        "price": 5.89,
+        "rating": 4.7,
+        "image": "https://example.com/images/citrus-sunrise.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Avocado Dream",
+        "description": "Creamy avocado blended with coconut milk and dates for a rich, satisfying smoothie.",
+        "ingredients": ["Avocado", "Coconut Milk", "Dates", "Chia Seeds"],
+        "price": 7.49,
+        "rating": 4.9,
+        "image": "https://example.com/images/avocado-dream.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Watermelon Refresh",
+        "description": "A hydrating blend of watermelon, lime, and mint for a refreshing experience.",
+        "ingredients": ["Watermelon", "Lime", "Mint", "Coconut Water"],
+        "price": 5.49,
+        "rating": 4.8,
+        "image": "https://example.com/images/watermelon-refresh.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Blueberry Oatmeal",
+        "description": "A hearty mix of blueberries, oats, and almond milk for a filling smoothie.",
+        "ingredients": ["Blueberries", "Oats", "Almond Milk", "Honey"],
+        "price": 6.19,
+        "rating": 4.7,
+        "image": "https://example.com/images/blueberry-oatmeal.jpg"
+      },
+      {
+        "id": 10,
+        "name": "Coconut Matcha",
+        "description": "A smooth, energizing mix of matcha green tea and coconut milk.",
+        "ingredients": ["Matcha", "Coconut Milk", "Vanilla Extract", "Agave Syrup"],
+        "price": 6.79,
+        "rating": 4.8,
+        "image": "https://example.com/images/coconut-matcha.jpg"
+      }
+    ]
+  }
+  
