@@ -10,7 +10,7 @@
         "ingredients": ["Strawberries", "Blueberries", "Raspberries", "Honey", "Almond Milk"],
         "price": 5.99,
         "rating": 4.8,
-        "image": "https://example.com/images/berry-bliss.jpg"
+        "image": "https://img.freepik.com/premium-photo/mixed-berry-bliss-glass-homemade-fruit-juice_1032986-16245.jpg"
       },
       {
         "id": 2,
@@ -19,7 +19,7 @@
         "ingredients": ["Mango", "Pineapple", "Coconut Water", "Chia Seeds"],
         "price": 6.49,
         "rating": 4.7,
-        "image": "https://example.com/images/tropical-twist.jpg"
+        "image": "https://img.freepik.com/premium-photo/glass-tropical-twist-juice-shake-orange-apple-pineapple-mixed-cocktail-soda-with-raw-fruits_689047-1127.jpg"
       },
       {
         "id": 3,
@@ -28,7 +28,7 @@
         "ingredients": ["Spinach", "Kale", "Banana", "Ginger", "Lemon Juice"],
         "price": 5.79,
         "rating": 4.9,
-        "image": "https://example.com/images/green-detox.jpg"
+        "image": "https://www.happyfoodstube.com/wp-content/uploads/2019/01/detox-green-juice-image.jpg"
       },
       {
         "id": 4,
@@ -37,7 +37,7 @@
         "ingredients": ["Peaches", "Greek Yogurt", "Protein Powder", "Almond Milk"],
         "price": 6.29,
         "rating": 4.6,
-        "image": "https://example.com/images/peachy-protein.jpg"
+        "image": "https://healthfulblondie.com/wp-content/uploads/2021/08/banana-peach-smoothie-6-683x1024.jpg"
       },
       {
         "id": 5,
@@ -46,7 +46,7 @@
         "ingredients": ["Banana", "Cocoa Powder", "Peanut Butter", "Oat Milk"],
         "price": 6.99,
         "rating": 4.8,
-        "image": "https://example.com/images/chocolate-banana.jpg"
+        "image": "https://images.squarespace-cdn.com/content/v1/605d57dd567c552c3b9ab603/1685949664739-P56O10N75E0QOKYKQM9A/BRAIN+BOOSTING+SMOOTHIE+4+%28L%29.jpg"
       },
       {
         "id": 6,
@@ -55,7 +55,7 @@
         "ingredients": ["Oranges", "Carrots", "Turmeric", "Ginger"],
         "price": 5.89,
         "rating": 4.7,
-        "image": "https://example.com/images/citrus-sunrise.jpg"
+        "image": "https://deliciosaofficial.com/wp-content/uploads/2024/10/Citrus-Sunrise-Refresher.jpg"
       },
       {
         "id": 7,
@@ -64,7 +64,7 @@
         "ingredients": ["Avocado", "Coconut Milk", "Dates", "Chia Seeds"],
         "price": 7.49,
         "rating": 4.9,
-        "image": "https://example.com/images/avocado-dream.jpg"
+        "image": "https://img.freepik.com/premium-photo/creamy-avocado-kale-smoothie_1170794-92558.jpg"
       },
       {
         "id": 8,
@@ -73,7 +73,7 @@
         "ingredients": ["Watermelon", "Lime", "Mint", "Coconut Water"],
         "price": 5.49,
         "rating": 4.8,
-        "image": "https://example.com/images/watermelon-refresh.jpg"
+        "image": "https://ufcrefreshcoco.com/wp-content/uploads/2022/02/recipes-1529126432.jpeg"
       },
       {
         "id": 9,
@@ -82,7 +82,7 @@
         "ingredients": ["Blueberries", "Oats", "Almond Milk", "Honey"],
         "price": 6.19,
         "rating": 4.7,
-        "image": "https://example.com/images/blueberry-oatmeal.jpg"
+        "image": "https://dietitiandebbie.com/wp-content/uploads/2023/01/Blueberry-Oat-Smoothie_-3.jpg"
       },
       {
         "id": 10,
@@ -91,7 +91,7 @@
         "ingredients": ["Matcha", "Coconut Milk", "Vanilla Extract", "Agave Syrup"],
         "price": 6.79,
         "rating": 4.8,
-        "image": "https://example.com/images/coconut-matcha.jpg"
+        "image": "https://www.natalieshealth.com/wp-content/uploads/2022/05/Iced-Coconut-Matcha-Latte-featured-image.jpeg"
       }
     ]
   }
